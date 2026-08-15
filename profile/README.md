@@ -35,7 +35,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cs,java,git,sublime,arch,windows&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=git,python,cs,java,sublime,arch,windows&perline=8" alt="My Skills" />
   </a>
 </div>
 
