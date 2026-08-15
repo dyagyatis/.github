@@ -1,36 +1,78 @@
-<h1 align="center">
-  <img src="https://github.com/DraganOS-playbook/.github/blob/main/profile/dragan-dark.png" alt="DraganOS" width="800"></a>
-</h1>
-
 <div align="center">
+
+  <!-- Анимированный печатающийся заголовок -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Привет%2C+я+Разработчик!+👋;Создаю+крутые+проекты;Добро+пожаловать+в+мой+профиль!" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <strong>Full-Stack Developer</strong> • Увлечен созданием быстрых и удобных приложений
+  </p>
+
+  <!-- Социальные сети / Способы связи -->
+  <p align="center">
+    <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+
 </div>
 
-DraganOS is a customized version of Windows, designed to be lightweight, stable, and focused on high performance, privacy and compatibility. It aspires to re-create what Windows as an operating system should have been - easy and simple. Now compatible with [AME Wizard](https://ameliorated.io).
+---
 
-## ✨ Key Features
+### 👨‍💻 Обо мне
 
-- 🎯 Easy to use, just drag and drop the playbook into [AME Wizard](https://ameliorated.io)
-- 🗑 Removes bloatware and unnecessary system components
-- ⚡ Optimizes your system for performance and improved privacy
-- 🔧 Integrates the [Dragan Tool](https://github.com/draganos-playbook/dragan-tool) to customize your system further
+- 🔭 Сейчас я работаю над **[Название проекта / Сфера]**
+- 🌱 Активно изучаю **[Технология 1]**, **[Технология 2]**
+- 💬 Спросите меня о **Python, TypeScript, React, Docker**
+- ⚡ Интересный факт: **[Твой забавный или профессиональный факт]**
 
-## 💻 System Requirements
-- Windows 10 22H2 `19045`
+---
 
-## 🚀 Getting Started
+### 🛠️ Стек технологий и инструментов
 
-Ready to elevate your Windows experience? Follow these simple steps:
+<div align="center">
+  <!-- Иконки технологий с авто-адаптацией темы (Skill Icons) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,html,css,git,docker,linux,vscode&perline=7" alt="My Skills" />
+  </a>
+</div>
 
-> [!CAUTION]
-> It's recommended to start with a fresh, stock Windows installation before applying the playbook to avoid potential conflicts with existing software and user data.
+---
 
-1. Download [AME Wizard](https://ameliorated.io) and our playbook from the latest [releases](https://github.com/draganos-playbook/playbook/releases).
-2. Launch the AME Wizard and drag-and-drop the playbook into the interface.
-3. Follow the on-screen instructions to complete the installation.
+### 📊 Статистика активности
 
-## 🤝 Support
+<div align="center">
 
-If you need any assistance or have any questions, feel free to reach out to our team. We are here to help!
+  <!-- Основная карточка со статистикой -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Топ используемых языков -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Langs" />
 
-> [!NOTE]
-> The best way to contact us is through our [Discord server](https://dsc.gg/draganos).
+</div>
+
+<br />
+
+<div align="center">
+
+  <!-- Карточка непрерывной серии коммитов (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### 🚀 Избранные проекты
+
+| Проект | Описание | Стек | Ссылка |
+| :--- | :--- | :--- | :---: |
+| 🌟 **Project One** | Краткое описание крутого проекта | `React` `Node.js` `PostgreSQL` | [Репозиторий](https://github.com/YOUR_GITHUB_USERNAME/repo1) |
+| ⚡ **Project Two** | Сервис / утилита / бот | `Python` `FastAPI` `Docker` | [Репозиторий](https://github.com/YOUR_GITHUB_USERNAME/repo2) |
+| 🛠️ **Project Three** | CLI инструмент или библиотека | `TypeScript` `Rust` | [Репозиторий](https://github.com/YOUR_GITHUB_USERNAME/repo3) |
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,17,31&height=100&section=footer" width="100%"/>
+</div>
