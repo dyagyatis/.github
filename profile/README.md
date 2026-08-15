@@ -15,8 +15,7 @@
   <!-- Бейджи инструментов и связи -->
   <p align="center">
     <img src="https://img.shields.io/badge/Powered%20By-Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
-    <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://t.me/dyagn0st1c"><img src="https://img.shields.io/badge/Telegram-@dyagn0st1c-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   </p>
 
 </div>
@@ -35,7 +34,6 @@
 ### 🧰 Мой инструментарий
 
 <div align="center">
-  <!-- Иконки технологий, которыми вайбкодишь -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,cs,java,lua,linux,bash,git,github,vscode&perline=6" alt="My Skills" />
   </a>
@@ -74,12 +72,10 @@
 
 ### 🚀 Проекты и эксперименты
 
-| Проект | Описание | Основной стек | Ссылка |
+| Проект | Описание | Стек | Ссылка |
 | :--- | :--- | :---: | :---: |
-| 🪟 **winbloat** | Эксперименты с запуском эксплойтов Windows на Linux | `TypeScript` | [Открыть](https://github.com/dyagyatis/winbloat) |
+| 🚀 **QLauncher** | Удобный и легковесный кастомный лаунчер | `App` `Launcher` | [Открыть](https://github.com/dyagyatis/QLauncher) |
 | 🎵 **Fmod-Bank-Tools-Linux** | Распаковка и сборка аудиофайлов Fmod `.bank` под Linux | `C#` `Linux` | [Открыть](https://github.com/dyagyatis/Fmod-Bank-Tools-Linux) |
-| 💻 **MCVmComputers** | Компьютеры и виртуалки прямо внутри Minecraft | `Java` | [Открыть](https://github.com/dyagyatis/MCVmComputers) |
-| 🖥️ **AerialOSOOBE** | Кастомный интерфейс начальной настройки | `JavaScript` | [Открыть](https://github.com/dyagyatis/AerialOSOOBE) |
 
 ---
 
