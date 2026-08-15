@@ -1,72 +1,39 @@
 <div align="center">
 
-  <!-- Анимированный печатающийся заголовок -->
+  <!-- Анимированная шапка с эффектом волны -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=180&section=header&text=Привет,%20я%20Максим%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+  <!-- Печатающийся текст Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Привет%2C+я+Разработчик!+👋;Создаю+крутые+проекты;Добро+пожаловать+в+мой+профиль!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+%26+Enthusiast;TypeScript+%2F+Python+%2F+C%23+%2F+Java;Создаю+и+исследую+интересные+проекты;Добро+пожаловать+в+мой+профиль!" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Full-Stack Developer</strong> • Увлечен созданием быстрых и удобных приложений
+    <strong>Разработка ПО • Моддинг • Автоматизация • Linux</strong>
   </p>
 
-  <!-- Социальные сети / Способы связи -->
+  <!-- Социальные сети и контакты -->
   <p align="center">
-    <a href="https://t.me/@dyagn0st1c"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/dyagyatis?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" /></a>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 Обо мне
+### 🧑‍💻 Обо мне
 
-- 🔭 Сейчас я работаю над **[QLauncher](https://github.com/dyagyatis/QLauncher)**
+- 💻 Разрабатываю утилиты, скрипты и инструменты для **Linux** и **Windows**
+- 🛠️ Интересуюсь системным программированием, реверс-инжинирингом и разработкой модов
+- 💬 Спросите меня о: **TypeScript, C#, Python, Linux, Lua**
+- ⚡ Активно изучаю новые технологии и улучшаю архитектуру своих проектов
+
 ---
 
-### 🛠️ Стек технологий и инструментов
+### 🛠️ Стек технологий и инструменты
 
 <div align="center">
-  <!-- Иконки технологий с авто-адаптацией темы (Skill Icons) -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,tailwind,html,css,git,docker,linux,vscode&perline=7" alt="My Skills" />
-  </a>
-</div>
-
----
-
-### 📊 Статистика активности
-
-<div align="center">
-
-  <!-- Основная карточка со статистикой -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Топ используемых языков -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Langs" />
-
-</div>
-
-<br />
-
-<div align="center">
-
-  <!-- Карточка непрерывной серии коммитов (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github_dark&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-### 🚀 Избранные проекты
-
-| Проект | Описание | Стек | Ссылка |
-| :--- | :--- | :--- | :---: |
-| 🌟 **Project One** | Краткое описание крутого проекта | `React` `Node.js` `PostgreSQL` | [Репозиторий](https://github.com/YOUR_GITHUB_USERNAME/repo1) |
-| ⚡ **Project Two** | Сервис / утилита / бот | `Python` `FastAPI` `Docker` | [Репозиторий](https://github.com/YOUR_GITHUB_USERNAME/repo2) |
-| 🛠️ **Project Three** | CLI инструмент или библиотека | `TypeScript` `Rust` | [Репозиторий](https://github.com/YOUR_GITHUB_USERNAME/repo3) |
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,17,31&height=100&section=footer" width="100%"/>
-</div>
+    <
