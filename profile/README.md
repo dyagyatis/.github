@@ -16,7 +16,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Powered%20By-Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
     <a href="https://t.me/dyagn0st1c"><img src="https://img.shields.io/badge/Telegram-@dyagn0st1c-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="https://discord.com/users/YOUR_DISCORD_USER_ID"><img src="https://img.shields.io/badge/Discord-@dyagn0st1c-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+    <a href="https://discord.com/users/YOUR_DISCORD_USER_ID"><img src="https://img.shields.io/badge/Discord-dyagyatis-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   </p>
 
 </div>
