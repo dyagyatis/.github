@@ -74,8 +74,8 @@
 
 | Проект | Описание | Стек | Ссылка |
 | :--- | :--- | :---: | :---: |
-| 🚀 **QLauncher** | Удобный и легковесный кастомный лаунчер | `App` `Launcher` | [Открыть](https://github.com/dyagyatis/QLauncher) |
-| 🎵 **Fmod-Bank-Tools-Linux** | Распаковка и сборка аудиофайлов Fmod `.bank` под Linux | `C#` `Linux` | [Открыть](https://github.com/dyagyatis/Fmod-Bank-Tools-Linux) |
+| 🚀 **QLauncher** | Удобный и легковесный кастомный Minecraft-лаунчер | `C# WPF` `Windows` | [Открыть](https://github.com/dyagyatis/QLauncher) |
+| 🎵 **Fmod-Bank-Tools-Linux** | Распаковка и сборка аудиофайлов Fmod `.bank` под Linux | `QT` `Multiplatform` | [Открыть](https://github.com/dyagyatis/Fmod-Bank-Tools-Linux) |
 
 ---
 
