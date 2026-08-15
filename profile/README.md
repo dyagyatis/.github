@@ -3,10 +3,7 @@
   <!-- Шапка с неоновым градиентом -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,15,30,45&height=180&section=header&text=Привет,%20я%20Максим%20✨&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-  <!-- Печатающийся анимированный заголовок -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=79C0FF&center=true&vCenter=true&random=false&width=620&lines=Vibe+Coder+%26+AI+Enthusiast;Пишу+код+по+вайбу+вместе+с+Gemini;Промпт+→+Тест+→+Commit+→+Push;Превращаю+идеи+в+работающие+штуки!" alt="Typing SVG" />
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=79C0FF&center=true&vCenter=true&width=620&lines=Vibe+Coder+%26+Creator;Пишу+код+по+вайбу+вместе+с+Gemini;Figma+%2F+Roblox+%2F+C%23+%2F+Python;Промпт+→+Тест+→+Commit+→+Push;Добро+пожаловать+в+мой+профиль!)](https://git.io/typing-svg)
 
   <p align="center">
     <strong>✨ Vibe-driven development • Gemini AI • Эксперименты с софтом и Linux</strong>
